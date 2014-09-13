@@ -7,7 +7,7 @@ width: 70%;
 
 /* Body Text and Backgrounds */
 body{
-background: url("file:///Users/AndrewSorensen/Desktop/DWS-1/Assignment_2/Images/logo2.jpg");
+background: url("/DWS-1/Assignment_2/Images/logo2.jpg");
 background-size: contain;
 background-repeat: none; 
 background-attachment: fixed;
