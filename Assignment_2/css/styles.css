@@ -1,0 +1,131 @@
+/* Wrapper */
+div#wrapper {
+margin: auto;
+width: 70%;
+}
+
+
+/* Body Text and Backgrounds */
+body{
+background: url("file:///Users/AndrewSorensen/Desktop/DWS-1/Assignment_2/Images/logo2.jpg");
+background-size: contain;
+background-repeat: none; 
+background-attachment: fixed;
+text-align: justify; 
+color: #2E399D;
+font-size: 18px;
+font-family: 'Raleway', sans-serif;; 
+}
+ul#Members, p#IntroText{
+margin: 30px; 
+text-align: center; 
+list-style-type: none; 
+background-color: rgba(228, 177, 41, .9);
+background-size: 20px 20px;
+border-radius: 25px;
+box-shadow: 5px 5px 5px #2E399D;
+padding: 5px;
+}
+ol#Albums{
+list-style-type: upper-roman;
+}
+ul#A1, ol#Albums{
+color: #2E399D;
+font-size: 18px;
+font-weight: normal;
+font-family: 'Raleway', sans-serif;
+text-shadow: none; 
+background-color: rgba(228, 177, 41, .9);
+border-radius: 25px;
+margin: 10px;
+box-shadow: 5px 5px 5px #2E399D;
+display: inline-box; 
+padding-top: 7px;
+padding-bottom: 7px;
+}
+p#A2{
+color: #2E399D;
+font-size: 18px;
+font-weight: normal;
+font-family: 'Raleway', sans-serif;
+text-shadow: none; 
+background-color: rgba(228, 177, 41, .9);
+border-radius: 25px;
+margin: 10px;
+box-shadow: 5px 5px 5px #2E399D;
+display: inline-box; 
+padding: 10px; 
+}
+p#credits{
+color: #2E399D;
+font-size: 18px;
+font-weight: normal;
+font-family: 'Raleway', sans-serif;
+text-shadow: none; 
+border-radius: 25px;
+margin: 10px;
+margin-bottom: 60px; 
+width: 1000px
+height: 100px;
+}
+
+
+
+/* Headings */
+
+div#Heading {
+    font-family: 'Rubik Mono One', sans-serif;
+	color: #1B268E; 
+	font-size: 40px;
+	line-height: 10px;
+	text-shadow: 2px; 
+	text-shadow: 1px 1px #E4B129;
+	font-weight: bold; 
+	margin: 25px; 
+	}
+	li#Mack, li#Ryan{
+color: #1B268E;
+font-family: 'Rubik Mono One', sans-serif;
+font-size: 25px;
+}
+h5, h6, h7{
+font-weight:bold;
+font-size: 24px;
+font-style: normal;
+font-family: 'Rubik Mono One', sans-serif;
+text-shadow: 1px 1px #E4B129;
+}	
+figcaption#Mackpiccap, figcaption#Ryanpiccap{
+color: #2E399D;
+font-family: 'Raleway', sans-serif;
+font-style: italic; 
+font-size: 15px;
+}
+
+/* Image and Link Styling*/
+
+a:link{
+color: #0F5A82;
+}
+a:visited{
+color: #0F5A82;
+}
+a:hover{
+color: #A27600;
+}
+a:active{
+color:#00FFFF;
+}
+figure a img{
+border-width: 4px;
+border-color: rgba(0, 0, 0, 0);
+border-style: solid; 
+}
+figure a img: link{
+}
+figure a img: visited{
+}
+figure a img:hover {
+border-color: #F5E252; 
+}
+
