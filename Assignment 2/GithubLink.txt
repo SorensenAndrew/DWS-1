@@ -1,6 +1,0 @@
-Github link
-
-https://github.com/SorensenAndrew/DWS-1.git
-
-Live Link
-http://sorensenandrew.github.io/DWS-1/Assignment_2/
