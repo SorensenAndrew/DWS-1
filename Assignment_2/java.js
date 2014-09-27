@@ -1,0 +1,1 @@
+alert("Welcome to the Macklemore & Ryan Lewis Fan Page");
